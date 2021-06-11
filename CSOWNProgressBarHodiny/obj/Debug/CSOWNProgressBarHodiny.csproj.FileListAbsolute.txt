@@ -1,0 +1,14 @@
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNProgressBarHodiny\CSOWNProgressBarHodiny\bin\Debug\CSOWNProgressBarHodiny.exe.config
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNProgressBarHodiny\CSOWNProgressBarHodiny\bin\Debug\CSOWNProgressBarHodiny.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNProgressBarHodiny\CSOWNProgressBarHodiny\bin\Debug\CSOWNProgressBarHodiny.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNProgressBarHodiny\CSOWNProgressBarHodiny\obj\Debug\CSOWNProgressBarHodiny.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNProgressBarHodiny\CSOWNProgressBarHodiny\obj\Debug\CSOWNProgressBarHodiny.ProgressBarForm.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNProgressBarHodiny\CSOWNProgressBarHodiny\obj\Debug\CSOWNProgressBarHodiny.Properties.Resources.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNProgressBarHodiny\CSOWNProgressBarHodiny\obj\Debug\CSOWNProgressBarHodiny.csproj.GenerateResource.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNProgressBarHodiny\CSOWNProgressBarHodiny\obj\Debug\CSOWNProgressBarHodiny.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNProgressBarHodiny\CSOWNProgressBarHodiny\obj\Debug\CSOWNProgressBarHodiny.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNProgressBarHodiny\CSOWNProgressBarHodiny\obj\Debug\CSOWNProgressBarHodiny.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNProgressBarHodiny\CSOWNProgressBarHodiny\bin\Debug\CircularProgressBar.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNProgressBarHodiny\CSOWNProgressBarHodiny\bin\Debug\WinFormAnimation.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNProgressBarHodiny\CSOWNProgressBarHodiny\bin\Debug\CircularProgressBar.xml
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\2. pololetí\Programování\C#\CSOWNProgressBarHodiny\CSOWNProgressBarHodiny\obj\Debug\CSOWNProgressBarHodiny.csproj.CopyComplete
